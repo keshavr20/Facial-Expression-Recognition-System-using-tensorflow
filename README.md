@@ -2,8 +2,8 @@
 This repository showcases a facial expression recognition system developed using TensorFlow. The system is capable of identifying various facial expressions, including happiness, sadness, anger, surprise, and more, from input images. It utilizes deep learning techniques and a labeled dataset for training the model. The trained model can be used to predict facial expressions from new images with reasonable accuracy.
 
 ## Requirements
-- Python 3.x
-- TensorFlow 2.x
+- Python latest version
+- TensorFlow, compatible with the desktop
 - OpenCV (for image/video input and display)
 
 ## Usage
