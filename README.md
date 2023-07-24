@@ -1,0 +1,2 @@
+# Facial-Expression-Recognition-System-using-tensorflow
+This repository showcases a facial expression recognition system developed using TensorFlow. The system is capable of identifying various facial expressions, including happiness, sadness, anger, surprise, and more, from input images. It utilizes deep learning techniques and a labeled dataset for training the model. The trained model can be used to predict facial expressions from new images with reasonable accuracy
